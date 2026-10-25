@@ -1,4 +1,4 @@
-# Hate letter to today
+## Hate letter to today
 
 **2026-10-26**
 
@@ -7,7 +7,7 @@
 This isn't really structured, but I like putting my thoughts out there. It's a bit of a ramble.
 Yes, this is about AI... I bet that's a real shocker.
 
-## A bit of background
+### A bit of background
 
 I've been programming since I was maybe like 12? 11? I don't know, it was somewhere in there.
 In the last 15-17 years, what I've programmed has changed a lot. I started out making crappy
@@ -25,7 +25,7 @@ Towards the end, I did gravitate more towards simplicity, and just not overthink
 
 Ramble ramble ramble. Something something something.
 
-## Now
+### Now
 
 Yeah, so AI is just making it all a hot mess. I'm not going to rehash that. You've heard. You know.
 
@@ -68,7 +68,7 @@ a Chinese restaurant? Nah. And he's the 80%.
 This is also your manager in a workplace. He has KPIs and other useless things to hit.
 You complete a story by X time? It gets through testing? Released? Great. Next!
 
-## What do I miss?
+### What do I miss?
 
 My experience with it all is that it was very human. It was never scientific, very opinionated,
 full of issues, constant religious battles, and always changing. Except... one thing never 

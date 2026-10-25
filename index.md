@@ -1,8 +1,10 @@
 Willkommen!
 
-I try to write about some things or something.
-It's sort of a blog, but I'm just writing things. Maybe this will change?
+I'm Alex (Aliics). I've always wanted to write about things, but never actually
+bit the bullet and just started doing it. Bullet... bitten?
 
-# Posts
+I'll write about things here on occasion. Maybe just share some things? Not sure.
+
+## Posts
 
 [2026-10-25 - Hate letter to today](./hate-letter-to-today.md)
