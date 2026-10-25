@@ -1,7 +1,6 @@
 # Hate letter to today
 
-Alexander Johnston
-2026-10-26
+**2026-10-26**
 
 *TL;DR I hate AI. You used it? It shows. It looks like shit.*
 
