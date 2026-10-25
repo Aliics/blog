@@ -7,4 +7,5 @@ I'll write about things here on occasion. Maybe just share some things? Not sure
 
 ## Posts
 
-[2026-10-25 - Hate letter to today](./hate-letter-to-today.md)
+- 2026-10-25 :: [Hate letter to today](./hate-letter-to-today.md)
+  I'm not an AI fan. I think it's making today worse.
